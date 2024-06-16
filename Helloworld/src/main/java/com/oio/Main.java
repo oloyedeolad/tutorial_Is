@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         int x = 3;
         double y = 3.0;
-        String z = "Hello world!";
+        String z = "Hello world!  Today is a good day";
         System.out.println(z);
     }
 
