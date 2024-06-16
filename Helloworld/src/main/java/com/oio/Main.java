@@ -8,6 +8,7 @@ public class Main {
         double y = 3.0;
         String z = "Hello world!";
         System.out.println(z);
+        System.out.println("Addition = " + (x + y));
     }
 
     /*
